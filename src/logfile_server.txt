@@ -1,8 +1,0 @@
-
-Received Part 1 of Frame1 from Station1
-
-Sent Part 1 of Frame1 from Station1 to Station1
-
-Received Part 2 of Frame1 from Station1
-
-Sent Part 2 of Frame1 from Station1 to Station1
