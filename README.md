@@ -1,3 +1,3 @@
 # C-programming
 
-Sample assignments in C.
+Sample assignments in C language.
